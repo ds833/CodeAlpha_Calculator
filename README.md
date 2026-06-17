@@ -10,3 +10,5 @@ A simple and responsive calculator built using HTML,CSS and JavaScript as part o
  - HTML
  - CSS
  - JavaScript
+## Author
+Devraj Verma
